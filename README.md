@@ -141,4 +141,4 @@ This lab is designed to get you comfortable with the syntax of Mocha as well as 
 
 - [Mocha documentation](http://mochajs.org/)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/javascript-intro-to-mocha' title='JavaScript Intro to Mocha'>JavaScript Intro to Mocha</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG JavaScript Intro to Mocha</p>
