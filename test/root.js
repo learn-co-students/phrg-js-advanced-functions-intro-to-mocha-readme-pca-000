@@ -1,3 +1,5 @@
+// this sets up a "fake browser" for testing purposes
+
 global.expect = require('expect');
 
 const jsdom = require('jsdom');
